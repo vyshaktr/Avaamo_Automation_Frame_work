@@ -1,0 +1,1437 @@
+2021-06-23 01:35:03,711 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 01:35:05,730 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 01:35:05,758 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 01:35:08,858 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 01:35:08,902 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 01:35:08,902 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 01:35:13,665 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 01:35:15,903 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 01:35:19,040 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 01:35:19,076 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 01:42:30,235 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 01:42:32,243 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 01:42:32,286 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 01:42:35,403 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 01:42:35,444 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 01:42:35,444 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 01:42:40,123 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 01:42:42,392 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 01:42:45,543 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 01:42:45,578 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 02:08:55,841 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 02:08:57,861 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 02:08:57,881 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 02:09:00,951 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 02:09:00,970 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 02:09:00,970 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 02:09:04,796 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 02:09:06,935 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 02:09:10,027 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 02:09:10,049 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 02:09:15,486 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 02:09:17,505 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 02:09:17,516 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 02:09:20,630 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 02:09:20,646 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 02:09:20,646 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 02:09:24,398 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 02:09:36,796 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 02:09:48,922 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 02:11:36,277 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 02:11:38,297 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 02:11:38,317 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 02:11:41,379 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 02:11:41,398 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 02:11:41,399 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 02:11:45,403 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 02:11:47,538 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 02:11:50,647 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 02:11:50,657 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 02:11:56,026 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 02:11:58,041 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 02:11:58,071 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 02:12:01,151 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 02:12:01,171 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 02:12:01,171 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 02:12:04,902 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 02:12:06,981 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 02:12:09,051 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 02:15:10,486 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 02:15:12,501 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 02:15:12,546 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 02:15:15,631 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 02:15:15,641 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 02:15:15,641 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 02:15:19,071 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 02:15:21,220 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 02:15:24,311 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 02:15:24,335 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 02:15:30,997 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 02:15:33,009 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 02:15:33,028 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 02:15:36,109 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 02:15:36,129 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 02:15:36,129 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 02:15:39,536 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 02:15:41,608 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 02:15:43,689 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 02:16:37,706 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 02:16:39,712 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 02:16:39,738 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 02:16:42,821 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 02:16:42,841 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 02:16:42,841 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 02:16:47,708 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 02:16:49,838 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 02:16:52,922 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 02:16:52,931 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 02:16:58,323 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 02:17:00,323 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 02:17:00,343 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 02:17:03,413 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 02:17:03,433 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 02:17:03,433 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 02:17:06,925 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 02:17:09,004 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 02:17:11,074 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 02:17:32,059 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 02:18:15,298 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 02:18:17,298 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 02:18:17,318 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 02:18:20,378 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 02:18:20,398 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 02:18:20,398 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 02:18:23,867 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 02:18:25,995 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 02:18:29,088 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 02:18:29,107 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 02:18:34,281 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 02:18:36,291 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 02:18:36,321 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 02:18:39,391 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 02:18:39,410 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 02:18:39,410 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 02:18:42,877 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 02:18:44,950 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 02:18:47,021 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 02:19:02,007 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 02:19:03,171 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 02:20:11,807 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 02:20:13,838 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 02:20:13,858 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 02:20:16,918 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 02:20:16,938 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 02:20:16,938 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 02:20:22,005 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 02:20:24,136 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 02:20:27,228 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 02:20:27,258 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 02:20:32,686 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 02:20:34,705 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 02:20:34,714 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 02:20:37,804 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 02:20:37,824 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 02:20:37,824 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 02:20:41,654 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 02:20:43,734 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 02:20:45,804 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 02:23:20,340 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 02:23:22,341 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 02:23:22,360 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 02:23:25,450 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 02:23:25,460 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 02:23:25,460 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 02:23:29,056 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 02:23:31,120 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 02:23:33,200 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 02:23:35,357 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 02:23:39,160 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 03:05:46,644 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 03:05:48,654 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 03:05:48,684 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 03:05:51,744 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 03:05:51,764 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 03:05:51,764 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 03:05:55,359 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 03:05:57,498 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 03:06:00,594 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 03:06:00,604 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 03:06:05,906 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 03:06:07,931 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 03:06:10,001 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 03:06:13,071 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 03:06:13,090 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 03:06:13,090 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 03:06:16,820 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 03:06:18,911 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 03:06:21,001 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 03:06:23,172 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 03:06:26,581 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 03:06:32,145 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 03:06:34,147 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 03:06:34,177 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 03:06:37,247 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 03:06:37,267 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 03:06:37,267 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 03:06:40,834 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 03:06:57,216 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 03:07:05,807 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 03:07:08,720 :INFO : test_Form_submit :Form is present
+2021-06-23 03:07:10,635 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 03:07:12,332 :INFO : test_Form_submit :Entering Full name
+2021-06-23 03:07:15,060 :INFO : test_Form_submit :Entering Address
+2021-06-23 03:07:16,500 :INFO : test_Form_submit :Radio button selection
+2021-06-23 03:07:28,574 :INFO : test_Form_submit :Star Rating
+2021-06-23 03:07:31,277 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 03:08:19,307 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 03:08:21,323 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 03:08:21,343 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 03:08:24,392 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 03:08:24,413 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 03:08:24,413 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 03:08:28,191 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 03:08:30,336 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 03:08:33,423 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 03:08:33,443 :INFO : test_Form_submit :Form is present
+2021-06-23 03:08:33,453 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 03:08:33,453 :INFO : test_Form_submit :Entering Full name
+2021-06-23 03:08:33,508 :INFO : test_Form_submit :Entering Address
+2021-06-23 03:08:33,556 :INFO : test_Form_submit :Radio button selection
+2021-06-23 03:10:00,136 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 03:10:02,156 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 03:10:02,176 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 03:10:05,271 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 03:10:05,286 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 03:10:05,286 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 03:10:08,513 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 03:10:10,636 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 03:10:13,726 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 03:10:13,748 :INFO : test_Form_submit :Form is present
+2021-06-23 03:10:13,748 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 03:10:13,748 :INFO : test_Form_submit :Entering Full name
+2021-06-23 03:10:13,812 :INFO : test_Form_submit :Entering Address
+2021-06-23 03:10:13,860 :INFO : test_Form_submit :Radio button selection
+2021-06-23 03:10:16,056 :INFO : test_Form_submit :Star Rating
+2021-06-23 03:10:16,107 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 03:10:55,723 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 03:10:57,733 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 03:10:57,752 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 03:11:00,838 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 03:11:00,852 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 03:11:00,852 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 03:11:04,102 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 03:11:06,226 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 03:11:09,323 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 03:11:09,342 :INFO : test_Form_submit :Form is present
+2021-06-23 03:11:09,342 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 03:11:09,342 :INFO : test_Form_submit :Entering Full name
+2021-06-23 03:11:09,399 :INFO : test_Form_submit :Entering Address
+2021-06-23 03:11:09,448 :INFO : test_Form_submit :Radio button selection
+2021-06-23 03:11:11,624 :INFO : test_Form_submit :Star Rating
+2021-06-23 03:11:13,693 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 03:12:25,158 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 03:12:27,163 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 03:12:27,202 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 03:12:30,272 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 03:12:30,282 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 03:12:30,292 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 03:12:34,595 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 03:12:36,702 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 03:12:39,803 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 03:12:39,823 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 03:12:44,819 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 03:12:46,835 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 03:12:46,862 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 03:12:49,928 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 03:12:49,947 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 03:12:49,947 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 03:12:53,459 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 03:12:55,527 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 03:12:57,598 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 03:12:59,791 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 03:13:01,001 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 03:13:06,193 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 03:13:08,208 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 03:13:08,217 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 03:13:11,287 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 03:13:11,307 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 03:13:11,307 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 03:13:14,443 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 03:13:16,597 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 03:13:19,698 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 03:13:19,717 :INFO : test_Form_submit :Form is present
+2021-06-23 03:13:19,717 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 03:13:19,727 :INFO : test_Form_submit :Entering Full name
+2021-06-23 03:13:19,785 :INFO : test_Form_submit :Entering Address
+2021-06-23 03:13:19,833 :INFO : test_Form_submit :Radio button selection
+2021-06-23 03:13:22,017 :INFO : test_Form_submit :Star Rating
+2021-06-23 03:14:40,707 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 03:14:42,718 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 03:14:42,737 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 03:14:45,817 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 03:14:45,837 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 03:14:45,837 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 03:14:49,290 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 03:14:51,412 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 03:14:54,507 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 03:14:54,519 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 03:14:59,825 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 03:15:01,849 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 03:15:03,900 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 03:15:06,989 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 03:15:07,009 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 03:15:07,009 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 03:15:10,472 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 03:15:12,549 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 03:15:14,629 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 03:15:16,800 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 03:15:21,639 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 03:15:27,614 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 03:15:29,635 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 03:15:29,644 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 03:15:32,729 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 03:15:32,754 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 03:15:32,754 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 03:15:36,334 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 03:15:38,472 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 03:15:41,565 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 03:15:41,584 :INFO : test_Form_submit :Form is present
+2021-06-23 03:15:41,584 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 03:15:41,584 :INFO : test_Form_submit :Entering Full name
+2021-06-23 03:15:41,648 :INFO : test_Form_submit :Entering Address
+2021-06-23 03:15:41,701 :INFO : test_Form_submit :Radio button selection
+2021-06-23 03:15:43,909 :INFO : test_Form_submit :Star Rating
+2021-06-23 03:17:08,320 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 03:17:10,325 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 03:17:10,370 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 03:17:13,439 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 03:17:13,465 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 03:17:13,465 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 03:17:17,152 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 03:17:19,281 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 03:17:22,375 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 03:17:22,394 :INFO : test_Form_submit :Form is present
+2021-06-23 03:17:22,394 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 03:17:22,394 :INFO : test_Form_submit :Entering Full name
+2021-06-23 03:17:22,460 :INFO : test_Form_submit :Entering Address
+2021-06-23 03:17:22,512 :INFO : test_Form_submit :Radio button selection
+2021-06-23 03:17:23,692 :INFO : test_Form_submit :Star Rating
+2021-06-23 03:17:25,825 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 03:17:48,955 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 03:17:50,989 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 03:17:51,008 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 03:17:54,059 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 03:17:54,078 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 03:17:54,078 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 03:17:58,788 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 03:18:00,916 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 03:18:04,009 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 03:18:04,028 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 03:18:09,130 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 03:18:11,155 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 03:18:11,175 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 03:18:14,224 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 03:18:14,244 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 03:18:14,244 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 03:18:17,619 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 03:18:19,674 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 03:18:21,755 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 03:18:23,933 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 03:18:27,007 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 03:18:32,252 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 03:18:34,275 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 03:18:34,284 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 03:18:37,359 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 03:18:37,374 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 03:18:37,374 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 03:18:41,063 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 03:18:43,195 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 03:18:46,294 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 03:18:46,314 :INFO : test_Form_submit :Form is present
+2021-06-23 03:18:46,314 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 03:18:46,314 :INFO : test_Form_submit :Entering Full name
+2021-06-23 03:18:46,378 :INFO : test_Form_submit :Entering Address
+2021-06-23 03:18:46,430 :INFO : test_Form_submit :Radio button selection
+2021-06-23 03:18:47,604 :INFO : test_Form_submit :Star Rating
+2021-06-23 03:18:49,745 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 03:19:58,029 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 03:20:00,049 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 03:20:00,059 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 03:20:03,139 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 03:20:03,159 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 03:20:03,159 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 03:20:06,134 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 03:20:08,262 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 03:20:11,360 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 03:20:11,379 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 03:20:16,588 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 03:20:18,604 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 03:20:18,624 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 03:20:21,684 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 03:20:21,704 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 03:20:21,704 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 03:20:24,870 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 03:20:26,964 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 03:20:29,034 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 03:20:31,191 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 03:20:34,452 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 03:20:39,556 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 03:20:41,561 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 03:20:41,579 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 03:20:44,640 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 03:20:44,660 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 03:20:44,660 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 03:20:47,681 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 03:20:49,790 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 03:20:52,890 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 03:20:52,910 :INFO : test_Form_submit :Form is present
+2021-06-23 03:20:52,910 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 03:20:52,910 :INFO : test_Form_submit :Entering Full name
+2021-06-23 03:20:52,978 :INFO : test_Form_submit :Entering Address
+2021-06-23 03:20:53,034 :INFO : test_Form_submit :Radio button selection
+2021-06-23 03:20:54,198 :INFO : test_Form_submit :Star Rating
+2021-06-23 03:20:56,330 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 03:21:41,354 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 03:21:43,367 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 03:21:43,397 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 03:21:46,467 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 03:21:46,487 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 03:21:46,487 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 03:21:49,645 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 03:21:51,770 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 03:21:54,867 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 03:21:54,897 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 03:22:00,015 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 03:22:02,031 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 03:22:02,064 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 03:22:05,134 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 03:22:05,154 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 03:22:05,154 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 03:22:08,288 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 03:22:10,374 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 03:22:12,454 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 03:22:14,619 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 03:22:19,160 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 03:22:24,257 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 03:22:26,267 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 03:22:26,285 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 03:22:29,355 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 03:22:29,365 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 03:22:29,365 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 03:22:32,691 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 03:22:34,821 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 03:22:37,915 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 03:22:37,935 :INFO : test_Form_submit :Form is present
+2021-06-23 03:22:37,935 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 03:22:37,935 :INFO : test_Form_submit :Entering Full name
+2021-06-23 03:22:38,002 :INFO : test_Form_submit :Entering Address
+2021-06-23 03:22:38,052 :INFO : test_Form_submit :Radio button selection
+2021-06-23 03:22:39,241 :INFO : test_Form_submit :Star Rating
+2021-06-23 03:22:41,358 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 03:23:54,354 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 03:23:56,363 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 03:23:56,403 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 03:23:59,482 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 03:23:59,503 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 03:23:59,503 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 03:24:03,180 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 03:24:05,298 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 03:24:08,383 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 03:24:08,423 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 03:24:13,819 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 03:24:15,833 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 03:24:15,852 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 03:24:18,912 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 03:24:18,932 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 03:24:18,932 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 03:24:22,532 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 03:24:24,612 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 03:24:26,693 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 03:24:28,852 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 03:24:32,436 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 03:24:37,898 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 03:24:39,908 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 03:24:39,927 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 03:24:42,988 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 03:24:43,007 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 03:24:43,007 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 03:24:46,823 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 03:24:48,971 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 03:24:52,068 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 03:24:52,087 :INFO : test_Form_submit :Form is present
+2021-06-23 03:24:52,087 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 03:24:52,087 :INFO : test_Form_submit :Entering Full name
+2021-06-23 03:24:52,153 :INFO : test_Form_submit :Entering Address
+2021-06-23 03:24:52,201 :INFO : test_Form_submit :Radio button selection
+2021-06-23 03:24:53,402 :INFO : test_Form_submit :Star Rating
+2021-06-23 03:24:55,538 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 03:26:55,033 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 03:26:55,077 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 03:26:55,117 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 03:26:57,044 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 03:26:57,054 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 03:26:57,083 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 03:26:57,106 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 03:26:57,133 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 03:26:57,166 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 03:27:00,134 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 03:27:00,144 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 03:27:00,144 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 03:27:00,184 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 03:27:00,215 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 03:27:00,215 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 03:27:00,259 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 03:27:00,283 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 03:27:00,283 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 03:27:03,191 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 03:27:03,612 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 03:27:04,619 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 03:27:05,253 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 03:27:05,728 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 03:27:06,766 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 03:27:07,324 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 03:27:08,813 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 03:27:08,858 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 03:27:09,512 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 03:27:09,855 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 03:27:09,871 :INFO : test_Form_submit :Form is present
+2021-06-23 03:27:09,871 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 03:27:09,871 :INFO : test_Form_submit :Entering Full name
+2021-06-23 03:27:09,926 :INFO : test_Form_submit :Entering Address
+2021-06-23 03:27:09,980 :INFO : test_Form_submit :Radio button selection
+2021-06-23 03:27:10,725 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 03:27:11,171 :INFO : test_Form_submit :Star Rating
+2021-06-23 03:27:13,289 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 03:28:09,816 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 03:28:09,847 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 03:28:09,877 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 03:28:11,817 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 03:28:11,837 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 03:28:11,862 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 03:28:11,889 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 03:28:11,892 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 03:28:11,916 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 03:28:14,897 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 03:28:14,907 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 03:28:14,907 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 03:28:14,971 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 03:28:14,993 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 03:28:14,993 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 03:28:15,004 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 03:28:15,022 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 03:28:15,022 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 03:28:18,363 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 03:28:18,402 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 03:28:18,453 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 03:28:20,446 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 03:28:20,533 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 03:28:20,589 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 03:28:22,517 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 03:28:23,634 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 03:28:23,655 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 03:28:23,697 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 03:28:23,729 :INFO : test_Form_submit :Form is present
+2021-06-23 03:28:23,729 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 03:28:23,730 :INFO : test_Form_submit :Entering Full name
+2021-06-23 03:28:23,888 :INFO : test_Form_submit :Entering Address
+2021-06-23 03:28:23,959 :INFO : test_Form_submit :Radio button selection
+2021-06-23 03:28:24,678 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 03:28:25,132 :INFO : test_Form_submit :Star Rating
+2021-06-23 03:28:27,274 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 03:28:28,379 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 08:19:05,339 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 08:19:05,819 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 08:19:05,874 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 08:19:07,344 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 08:19:07,396 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 08:19:07,832 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 08:19:07,892 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 08:19:07,905 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 08:19:07,960 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 08:19:10,558 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 08:19:10,606 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 08:19:10,606 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 08:19:11,135 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 08:19:11,169 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 08:19:11,169 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 08:19:11,170 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 08:19:11,199 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 08:19:11,199 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 08:19:13,550 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 08:19:13,860 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 08:19:15,703 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 08:19:16,166 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 08:19:16,594 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 08:19:17,855 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 08:19:18,907 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 08:19:19,296 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 08:19:19,372 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 08:19:20,114 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 08:19:22,128 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 08:19:22,174 :INFO : test_Form_submit :Form is present
+2021-06-23 08:19:22,175 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 08:19:22,175 :INFO : test_Form_submit :Entering Full name
+2021-06-23 08:19:22,338 :INFO : test_Form_submit :Entering Address
+2021-06-23 08:19:22,497 :INFO : test_Form_submit :Radio button selection
+2021-06-23 08:19:23,852 :INFO : test_Form_submit :Star Rating
+2021-06-23 08:19:24,899 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 08:19:26,175 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 09:20:10,190 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 09:20:12,219 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 09:20:12,275 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 09:20:15,432 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 09:20:15,478 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 09:20:15,479 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 09:20:22,921 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 09:20:25,197 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 09:20:28,340 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 09:20:28,376 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 09:20:33,680 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 09:20:35,694 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 09:20:35,763 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 09:20:38,930 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 09:20:38,971 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 09:20:38,971 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 09:20:43,466 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 09:20:45,563 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 09:20:47,774 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 09:20:57,914 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 09:20:59,940 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 09:21:00,005 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 09:21:03,169 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 09:21:03,214 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 09:21:03,214 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 09:21:05,889 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 09:21:20,494 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 09:22:47,030 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 09:22:49,049 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 09:22:49,115 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 09:22:52,273 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 09:22:52,309 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 09:22:52,309 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 09:22:57,273 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 09:22:59,500 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 09:23:02,658 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 09:23:02,708 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 09:23:08,275 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 09:23:10,282 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 09:23:10,349 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 09:23:13,519 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 09:23:13,567 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 09:23:13,568 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 09:23:17,068 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 09:23:19,198 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 09:23:21,373 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 09:23:23,783 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 09:23:55,026 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 09:24:00,557 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 09:24:02,569 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 09:24:02,617 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 09:24:05,724 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 09:24:05,771 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 09:24:05,771 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 09:24:09,422 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 09:24:11,738 :INFO : test_Form_submit :Step 7 :Sending New Test as input
+2021-06-23 09:25:10,203 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 09:26:40,514 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 09:26:42,522 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 09:26:42,569 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 09:26:45,703 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 09:26:45,751 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 09:26:45,752 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 09:26:48,526 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 09:26:50,751 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 09:26:53,852 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 09:26:53,907 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 09:27:01,195 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 09:27:03,208 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 09:27:03,248 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 09:27:06,399 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 09:27:06,440 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 09:27:06,440 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 09:27:09,415 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 09:27:11,525 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 09:27:13,718 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 09:27:16,038 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 09:27:47,183 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 09:27:53,204 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 09:27:55,220 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 09:27:55,259 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 09:27:58,396 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 09:27:58,449 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 09:27:58,450 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 09:28:04,147 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 09:28:06,331 :INFO : test_Form_submit :Step 7 :Sending New Test as input
+2021-06-23 09:28:07,440 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 09:30:07,239 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 09:30:09,262 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 09:30:09,311 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 09:30:12,466 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 09:30:12,512 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 09:30:12,512 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 09:30:15,354 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 09:30:17,602 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 09:30:20,737 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 09:30:20,798 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 09:30:26,295 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 09:30:28,316 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 09:30:28,377 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 09:30:31,543 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 09:30:31,585 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 09:30:31,585 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 09:30:33,912 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 09:30:36,007 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 09:30:38,197 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 09:30:40,622 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 09:30:44,428 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 09:30:50,523 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 09:30:52,547 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 09:30:52,617 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 09:30:55,754 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 09:30:55,798 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 09:30:55,799 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 09:31:01,126 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 09:31:03,380 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 09:31:06,497 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 09:31:06,548 :INFO : test_Form_submit :Form is present
+2021-06-23 09:31:06,548 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 09:31:06,548 :INFO : test_Form_submit :Entering Full name
+2021-06-23 09:31:06,680 :INFO : test_Form_submit :Entering Address
+2021-06-23 09:31:06,743 :INFO : test_Form_submit :Radio button selection
+2021-06-23 09:31:08,015 :INFO : test_Form_submit :Star Rating
+2021-06-23 09:31:10,227 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 09:37:37,841 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 09:37:39,854 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 09:37:39,894 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 09:37:43,053 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 09:37:43,118 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 09:37:43,119 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 09:37:44,703 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 09:37:46,962 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 09:37:50,087 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 09:37:50,143 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 09:37:55,166 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 09:37:57,186 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 09:37:57,207 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 09:38:00,330 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 09:38:00,375 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 09:38:00,375 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 09:38:02,106 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 09:38:04,199 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 09:38:06,393 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 09:38:08,731 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 09:38:12,236 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 09:38:17,106 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 09:38:19,119 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 09:38:19,144 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 09:38:22,245 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 09:38:22,270 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 09:38:22,270 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 09:38:23,684 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 09:38:25,937 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 09:38:29,062 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 09:38:29,137 :INFO : test_Form_submit :Form is present
+2021-06-23 09:38:29,138 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 09:38:29,138 :INFO : test_Form_submit :Entering Full name
+2021-06-23 09:38:29,267 :INFO : test_Form_submit :Entering Address
+2021-06-23 09:38:29,326 :INFO : test_Form_submit :Radio button selection
+2021-06-23 09:38:30,580 :INFO : test_Form_submit :Star Rating
+2021-06-23 09:38:32,829 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 09:57:57,320 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 09:57:59,330 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 09:57:59,355 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 09:58:02,482 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 09:58:02,526 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 09:58:02,526 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 09:58:04,033 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 09:58:06,274 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 09:58:09,459 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 09:58:09,503 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 09:58:15,433 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 09:58:17,443 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 09:58:17,495 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 09:58:20,677 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 09:58:20,734 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 09:58:20,735 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 09:58:22,429 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 09:58:24,537 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 09:58:26,632 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 09:58:28,912 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 09:58:38,103 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 09:58:43,158 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 09:58:45,170 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 09:58:45,201 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 09:58:48,317 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 09:58:48,358 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 09:58:48,359 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 09:58:49,678 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 09:58:51,907 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 09:58:55,092 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 09:58:55,160 :INFO : test_Form_submit :Form is present
+2021-06-23 09:58:55,161 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 09:58:55,162 :INFO : test_Form_submit :Entering Full name
+2021-06-23 09:58:55,318 :INFO : test_Form_submit :Entering Address
+2021-06-23 09:58:55,379 :INFO : test_Form_submit :Radio button selection
+2021-06-23 09:58:56,662 :INFO : test_Form_submit :Star Rating
+2021-06-23 09:58:58,887 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 09:59:04,255 :INFO : test_Google_call :Step 1 :Launching Avammo website
+2021-06-23 09:59:06,268 :INFO : test_Google_call :Step 2 :Verification of  Welcome message
+2021-06-23 09:59:06,293 :INFO : test_Google_call :Step 3 :Click on Welcome message
+2021-06-23 09:59:09,403 :INFO : test_Google_call :Step 4 :Verification of Agentname
+2021-06-23 09:59:09,462 :INFO : test_Google_call :Agent name is present as expected
+2021-06-23 09:59:09,463 :INFO : test_Google_call :Step 5 :Verification of Get started button
+2021-06-23 09:59:10,988 :INFO : test_Google_call :Step 6 :Moving inside the bot
+2021-06-23 09:59:13,141 :INFO : test_Google_call :Step 7 :Sending New Test as input
+2021-06-23 09:59:40,166 :INFO : test_Google_call :Verify Google and call options tab presence
+2021-06-23 09:59:42,080 :INFO : test_Google_call :Step 8 :Verify Google and call options  present
+2021-06-23 09:59:43,971 :INFO : test_Google_call :Step 9 : Clicking on google link
+2021-06-23 10:00:01,678 :INFO : test_Google_call : Google link has been opened
+2021-06-23 10:00:03,705 :INFO : test_Google_call : Closing google link
+2021-06-23 10:00:06,899 :INFO : test_Google_call :Step 10 : Clicking on call link
+2021-06-23 10:00:21,450 :INFO : test_Google_call :Step 11 :Verifying Call link
+2021-06-23 10:01:05,302 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 10:01:05,477 :INFO : test_Google_call :Step 1 :Launching Avammo website
+2021-06-23 10:01:05,748 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 10:01:05,800 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 10:01:07,324 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 10:01:07,346 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 10:01:07,491 :INFO : test_Google_call :Step 2 :Verification of  Welcome message
+2021-06-23 10:01:07,516 :INFO : test_Google_call :Step 3 :Click on Welcome message
+2021-06-23 10:01:07,761 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 10:01:07,806 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 10:01:07,819 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 10:01:07,862 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 10:01:10,451 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 10:01:10,489 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 10:01:10,490 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 10:01:10,612 :INFO : test_Google_call :Step 4 :Verification of Agentname
+2021-06-23 10:01:10,638 :INFO : test_Google_call :Agent name is present as expected
+2021-06-23 10:01:10,638 :INFO : test_Google_call :Step 5 :Verification of Get started button
+2021-06-23 10:01:10,958 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 10:01:11,003 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 10:01:11,004 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 10:01:11,028 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 10:01:11,079 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 10:01:11,079 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 10:01:12,155 :INFO : test_Google_call :Step 6 :Moving inside the bot
+2021-06-23 10:01:12,174 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 10:01:12,651 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 10:01:13,162 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 10:01:14,398 :INFO : test_Google_call :Step 7 :Sending New Test as input
+2021-06-23 10:01:14,398 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 10:01:14,756 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 10:01:15,548 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 10:01:16,877 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 10:01:17,506 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 10:01:17,518 :INFO : test_Google_call :Verify Google and call options tab presence
+2021-06-23 10:01:17,596 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 10:01:17,602 :INFO : test_Google_call :Step 8 :Verify Google and call options  present
+2021-06-23 10:01:17,603 :INFO : test_Google_call :Step 9 : Clicking on google link
+2021-06-23 10:01:18,747 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 10:01:18,798 :INFO : test_Form_submit :Form is present
+2021-06-23 10:01:18,799 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 10:01:18,799 :INFO : test_Form_submit :Entering Full name
+2021-06-23 10:01:18,939 :INFO : test_Form_submit :Entering Address
+2021-06-23 10:01:19,062 :INFO : test_Form_submit :Radio button selection
+2021-06-23 10:01:19,301 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 10:01:20,018 :INFO : test_Google_call : Google link has been opened
+2021-06-23 10:01:20,019 :INFO : test_Google_call : Closing google link
+2021-06-23 10:01:20,114 :INFO : test_Google_call :Step 10 : Clicking on call link
+2021-06-23 10:01:20,503 :INFO : test_Form_submit :Star Rating
+2021-06-23 10:01:22,169 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 10:01:22,470 :INFO : test_Google_call :Step 11 :Verifying Call link
+2021-06-23 10:01:22,864 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 10:05:04,473 :INFO : test_Google_call :
+2021-06-23 10:06:59,742 :INFO : test_Google_call :Step 1 :Launching Avammo website
+2021-06-23 10:07:01,767 :INFO : test_Google_call :Step 2 :Verification of  Welcome message
+2021-06-23 10:07:01,830 :INFO : test_Google_call :Step 3 :Click on Welcome message
+2021-06-23 10:07:04,982 :INFO : test_Google_call :Step 4 :Verification of Agentname
+2021-06-23 10:07:05,022 :INFO : test_Google_call :Agent name is present as expected
+2021-06-23 10:07:05,022 :INFO : test_Google_call :Step 5 :Verification of Get started button
+2021-06-23 10:07:06,673 :INFO : test_Google_call :Step 6 :Moving inside the bot
+2021-06-23 10:07:08,928 :INFO : test_Google_call :Step 7 :Sending New Test as input
+2021-06-23 10:07:12,061 :INFO : test_Google_call :Verify Google and call options tab presence
+2021-06-23 10:07:12,122 :INFO : test_Google_call :Step 8 :Verify Google and call options  present
+2021-06-23 10:07:12,123 :INFO : test_Google_call :Step 9 : Clicking on google link
+2021-06-23 10:07:14,322 :INFO : test_Google_call : Google link has been opened
+2021-06-23 10:07:14,322 :INFO : test_Google_call : Closing google link
+2021-06-23 10:07:14,447 :INFO : test_Google_call :Step 10 : Clicking on call link
+2021-06-23 10:39:07,910 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 10:39:08,329 :INFO : test_Google_call :Step 1 :Launching Avammo website
+2021-06-23 10:39:08,535 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 10:39:08,857 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 10:39:09,925 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 10:39:09,946 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 10:39:10,341 :INFO : test_Google_call :Step 2 :Verification of  Welcome message
+2021-06-23 10:39:10,369 :INFO : test_Google_call :Step 3 :Click on Welcome message
+2021-06-23 10:39:10,551 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 10:39:10,577 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 10:39:10,869 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 10:39:10,898 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 10:39:13,074 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 10:39:13,120 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 10:39:13,120 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 10:39:13,497 :INFO : test_Google_call :Step 4 :Verification of Agentname
+2021-06-23 10:39:13,543 :INFO : test_Google_call :Agent name is present as expected
+2021-06-23 10:39:13,543 :INFO : test_Google_call :Step 5 :Verification of Get started button
+2021-06-23 10:39:13,689 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 10:39:13,712 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 10:39:13,712 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 10:39:14,038 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 10:39:14,105 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 10:39:14,106 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 10:39:14,838 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 10:39:15,288 :INFO : test_Google_call :Step 6 :Moving inside the bot
+2021-06-23 10:39:15,657 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 10:39:16,164 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 10:39:17,087 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 10:39:17,524 :INFO : test_Google_call :Step 7 :Sending New Test as input
+2021-06-23 10:39:17,920 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 10:39:18,283 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 10:39:20,220 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 10:39:20,290 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 10:39:20,597 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 10:39:20,628 :INFO : test_Google_call :Verify Google and call options tab presence
+2021-06-23 10:39:20,662 :INFO : test_Google_call :Step 8 :Verify Google and call options  present
+2021-06-23 10:39:20,662 :INFO : test_Google_call :Step 9 : Clicking on google link
+2021-06-23 10:39:21,078 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 10:39:21,129 :INFO : test_Form_submit :Form is present
+2021-06-23 10:39:21,130 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 10:39:21,130 :INFO : test_Form_submit :Entering Full name
+2021-06-23 10:39:21,299 :INFO : test_Form_submit :Entering Address
+2021-06-23 10:39:21,425 :INFO : test_Form_submit :Radio button selection
+2021-06-23 10:39:22,845 :INFO : test_Form_submit :Star Rating
+2021-06-23 10:39:22,871 :INFO : test_Google_call : Google link has been opened
+2021-06-23 10:39:22,871 :INFO : test_Google_call : Closing google link
+2021-06-23 10:39:22,913 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 10:39:22,970 :INFO : test_Google_call :Step 10 : Clicking on call link
+2021-06-23 10:39:25,104 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 10:39:27,752 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 10:47:39,306 :INFO : test_Google_call :Step 1 :Launching Avammo website
+2021-06-23 10:47:41,320 :INFO : test_Google_call :Step 2 :Verification of  Welcome message
+2021-06-23 10:47:41,364 :INFO : test_Google_call :Step 3 :Click on Welcome message
+2021-06-23 10:47:44,511 :INFO : test_Google_call :Step 4 :Verification of Agentname
+2021-06-23 10:47:44,558 :INFO : test_Google_call :Agent name is present as expected
+2021-06-23 10:47:44,558 :INFO : test_Google_call :Step 5 :Verification of Get started button
+2021-06-23 10:47:46,064 :INFO : test_Google_call :Step 6 :Moving inside the bot
+2021-06-23 10:47:48,249 :INFO : test_Google_call :Step 7 :Sending New Test as input
+2021-06-23 10:47:51,383 :INFO : test_Google_call :Verify Google and call options tab presence
+2021-06-23 10:47:51,431 :INFO : test_Google_call :Step 8 :Verify Google and call options  present
+2021-06-23 10:47:51,432 :INFO : test_Google_call :Step 9 : Clicking on google link
+2021-06-23 10:47:53,634 :INFO : test_Google_call : Google link has been opened
+2021-06-23 10:47:53,634 :INFO : test_Google_call : Closing google link
+2021-06-23 10:47:53,765 :INFO : test_Google_call :Step 10 : Clicking on call link
+2021-06-23 11:00:54,173 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 11:00:56,192 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 11:00:56,248 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 11:00:59,418 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 11:00:59,466 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 11:00:59,466 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 11:01:01,303 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 11:01:03,562 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 11:01:06,682 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 11:01:06,746 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 11:01:15,729 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 11:01:17,736 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 11:01:17,782 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 11:01:20,943 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 11:01:20,989 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 11:01:20,989 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 11:01:22,811 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 11:01:24,921 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 11:01:27,086 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 11:01:29,449 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 11:01:33,032 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 11:01:39,560 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 11:01:41,573 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 11:01:41,611 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 11:01:44,748 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 11:01:44,787 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 11:01:44,788 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 11:01:46,391 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 11:01:48,589 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 11:01:51,704 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 11:01:51,746 :INFO : test_Form_submit :Form is present
+2021-06-23 11:01:51,746 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 11:01:51,746 :INFO : test_Form_submit :Entering Full name
+2021-06-23 11:01:51,866 :INFO : test_Form_submit :Entering Address
+2021-06-23 11:01:51,940 :INFO : test_Form_submit :Radio button selection
+2021-06-23 11:01:53,261 :INFO : test_Form_submit :Star Rating
+2021-06-23 11:01:55,485 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 11:02:09,609 :INFO : test_Google_call :Step 1 :Launching Avammo website
+2021-06-23 11:02:11,628 :INFO : test_Google_call :Step 2 :Verification of  Welcome message
+2021-06-23 11:02:11,691 :INFO : test_Google_call :Step 3 :Click on Welcome message
+2021-06-23 11:02:14,861 :INFO : test_Google_call :Step 4 :Verification of Agentname
+2021-06-23 11:02:14,901 :INFO : test_Google_call :Agent name is present as expected
+2021-06-23 11:02:14,901 :INFO : test_Google_call :Step 5 :Verification of Get started button
+2021-06-23 11:02:16,708 :INFO : test_Google_call :Step 6 :Moving inside the bot
+2021-06-23 11:02:18,980 :INFO : test_Google_call :Step 7 :Sending New Test as input
+2021-06-23 11:02:22,130 :INFO : test_Google_call :Verify Google and call options tab presence
+2021-06-23 11:02:22,185 :INFO : test_Google_call :Step 8 :Verify Google and call options  present
+2021-06-23 11:02:22,186 :INFO : test_Google_call :Step 9 : Clicking on google link
+2021-06-23 11:02:24,402 :INFO : test_Google_call : Google link has been opened
+2021-06-23 11:02:24,402 :INFO : test_Google_call : Closing google link
+2021-06-23 11:02:24,528 :INFO : test_Google_call :Step 10 : Clicking on call link
+2021-06-23 11:08:41,124 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 11:08:43,131 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 11:08:43,175 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 11:08:46,469 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 11:08:46,499 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 11:08:46,500 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 11:08:46,782 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 11:08:49,138 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 11:08:52,451 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 11:08:52,479 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 11:09:03,253 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 11:09:05,264 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 11:09:05,302 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 11:09:08,595 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 11:09:08,623 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 11:09:08,625 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 11:09:08,880 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 11:09:21,012 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 11:09:23,023 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 11:09:23,080 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 11:09:26,362 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 11:09:26,374 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 11:09:26,374 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 11:09:26,637 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 11:09:39,125 :INFO : test_Google_call :Step 1 :Launching Avammo website
+2021-06-23 11:09:41,143 :INFO : test_Google_call :Step 2 :Verification of  Welcome message
+2021-06-23 11:09:41,198 :INFO : test_Google_call :Step 3 :Click on Welcome message
+2021-06-23 11:09:44,478 :INFO : test_Google_call :Step 4 :Verification of Agentname
+2021-06-23 11:09:44,495 :INFO : test_Google_call :Agent name is present as expected
+2021-06-23 11:09:44,495 :INFO : test_Google_call :Step 5 :Verification of Get started button
+2021-06-23 11:09:44,760 :INFO : test_Google_call :Step 6 :Moving inside the bot
+2021-06-23 11:11:22,168 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 11:11:24,183 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 11:11:24,241 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 11:11:27,402 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 11:11:27,445 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 11:11:27,445 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 11:11:29,198 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 11:11:31,451 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 11:11:34,563 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 11:11:34,622 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 11:11:40,440 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 11:11:42,452 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 11:11:42,511 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 11:11:45,678 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 11:11:45,721 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 11:11:45,721 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 11:11:47,405 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 11:11:49,527 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 11:11:51,702 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 11:12:01,836 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 11:12:03,849 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 11:12:03,901 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 11:12:07,056 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 11:12:07,102 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 11:12:07,103 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 11:12:08,644 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 11:12:10,916 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 11:12:14,039 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 11:12:14,095 :INFO : test_Form_submit :Form is present
+2021-06-23 11:12:14,095 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 11:12:14,095 :INFO : test_Form_submit :Entering Full name
+2021-06-23 11:12:14,245 :INFO : test_Form_submit :Entering Address
+2021-06-23 11:12:14,318 :INFO : test_Form_submit :Radio button selection
+2021-06-23 11:12:15,587 :INFO : test_Form_submit :Star Rating
+2021-06-23 11:12:17,819 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 11:12:23,442 :INFO : test_Google_call :Step 1 :Launching Avammo website
+2021-06-23 11:12:25,456 :INFO : test_Google_call :Step 2 :Verification of  Welcome message
+2021-06-23 11:12:25,516 :INFO : test_Google_call :Step 3 :Click on Welcome message
+2021-06-23 11:12:28,653 :INFO : test_Google_call :Step 4 :Verification of Agentname
+2021-06-23 11:12:28,693 :INFO : test_Google_call :Agent name is present as expected
+2021-06-23 11:12:28,694 :INFO : test_Google_call :Step 5 :Verification of Get started button
+2021-06-23 11:12:30,498 :INFO : test_Google_call :Step 6 :Moving inside the bot
+2021-06-23 11:12:32,769 :INFO : test_Google_call :Step 7 :Sending New Test as input
+2021-06-23 11:12:35,926 :INFO : test_Google_call :Verify Google and call options tab presence
+2021-06-23 11:12:35,965 :INFO : test_Google_call :Step 8 :Verify Google and call options  present
+2021-06-23 11:12:35,965 :INFO : test_Google_call :Step 9 : Clicking on google link
+2021-06-23 11:12:38,175 :INFO : test_Google_call : Google link has been opened
+2021-06-23 11:12:38,175 :INFO : test_Google_call : Closing google link
+2021-06-23 11:12:38,301 :INFO : test_Google_call :Step 10 : Clicking on call link
+2021-06-23 11:17:11,462 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 11:17:13,474 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 11:17:13,535 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 11:17:16,697 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 11:17:16,748 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 11:17:16,748 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 11:17:18,439 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 11:17:20,719 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 11:17:23,834 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 11:17:23,893 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 11:17:30,435 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 11:17:32,443 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 11:17:32,500 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 11:17:35,650 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 11:17:35,692 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 11:17:35,692 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 11:17:37,382 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 11:17:39,488 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 11:17:41,683 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 11:17:44,038 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 11:17:47,647 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 11:17:54,092 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 11:17:56,101 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 11:17:56,151 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 11:17:59,316 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 11:17:59,362 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 11:17:59,362 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 11:18:01,037 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 11:18:03,289 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 11:18:06,450 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 11:18:06,492 :INFO : test_Form_submit :Form is present
+2021-06-23 11:18:06,493 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 11:18:06,493 :INFO : test_Form_submit :Entering Full name
+2021-06-23 11:18:06,613 :INFO : test_Form_submit :Entering Address
+2021-06-23 11:18:06,675 :INFO : test_Form_submit :Radio button selection
+2021-06-23 11:18:08,015 :INFO : test_Form_submit :Star Rating
+2021-06-23 11:18:10,241 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 11:18:20,275 :INFO : test_Google_call :Step 1 :Launching Avammo website
+2021-06-23 11:18:22,303 :INFO : test_Google_call :Step 2 :Verification of  Welcome message
+2021-06-23 11:18:22,346 :INFO : test_Google_call :Step 3 :Click on Welcome message
+2021-06-23 11:18:25,507 :INFO : test_Google_call :Step 4 :Verification of Agentname
+2021-06-23 11:18:25,552 :INFO : test_Google_call :Agent name is present as expected
+2021-06-23 11:18:25,553 :INFO : test_Google_call :Step 5 :Verification of Get started button
+2021-06-23 11:18:27,676 :INFO : test_Google_call :Step 6 :Moving inside the bot
+2021-06-23 11:18:29,957 :INFO : test_Google_call :Step 7 :Sending New Test as input
+2021-06-23 11:18:33,133 :INFO : test_Google_call :Verify Google and call options tab presence
+2021-06-23 11:18:33,188 :INFO : test_Google_call :Step 8 :Verify Google and call options  present
+2021-06-23 11:18:33,188 :INFO : test_Google_call :Step 9 : Clicking on google link
+2021-06-23 11:18:35,372 :INFO : test_Google_call : Google link has been opened
+2021-06-23 11:18:35,372 :INFO : test_Google_call : Closing google link
+2021-06-23 11:18:35,480 :INFO : test_Google_call :Step 10 : Clicking on call link
+2021-06-23 11:59:09,293 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 11:59:11,303 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 11:59:11,368 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 11:59:14,530 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 11:59:14,579 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 11:59:14,579 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 11:59:16,347 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 11:59:18,597 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 11:59:21,703 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 11:59:21,766 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 11:59:29,014 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 11:59:31,025 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 11:59:31,089 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 11:59:34,224 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 11:59:34,267 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 11:59:34,267 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 11:59:36,230 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 11:59:38,342 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 11:59:40,505 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 11:59:42,877 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 11:59:46,236 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 11:59:55,012 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 11:59:57,020 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 11:59:57,093 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 12:00:00,256 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 12:00:00,302 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 12:00:00,302 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 12:00:01,800 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 12:00:03,983 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 12:00:07,111 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 12:00:07,172 :INFO : test_Form_submit :Form is present
+2021-06-23 12:00:07,173 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 12:00:07,173 :INFO : test_Form_submit :Entering Full name
+2021-06-23 12:00:07,300 :INFO : test_Form_submit :Entering Address
+2021-06-23 12:00:07,360 :INFO : test_Form_submit :Radio button selection
+2021-06-23 12:00:08,646 :INFO : test_Form_submit :Star Rating
+2021-06-23 12:00:10,941 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 12:00:23,704 :INFO : test_Google_call :Step 1 :Launching Avammo website
+2021-06-23 12:00:25,714 :INFO : test_Google_call :Step 2 :Verification of  Welcome message
+2021-06-23 12:00:25,751 :INFO : test_Google_call :Step 3 :Click on Welcome message
+2021-06-23 12:00:28,910 :INFO : test_Google_call :Step 4 :Verification of Agentname
+2021-06-23 12:00:28,951 :INFO : test_Google_call :Agent name is present as expected
+2021-06-23 12:00:28,951 :INFO : test_Google_call :Step 5 :Verification of Get started button
+2021-06-23 12:00:30,734 :INFO : test_Google_call :Step 6 :Moving inside the bot
+2021-06-23 12:00:33,008 :INFO : test_Google_call :Step 7 :Sending New Test as input
+2021-06-23 12:00:36,174 :INFO : test_Google_call :Verify Google and call options tab presence
+2021-06-23 12:00:36,234 :INFO : test_Google_call :Step 8 :Verify Google and call options  present
+2021-06-23 12:00:36,234 :INFO : test_Google_call :Step 9 : Clicking on google link
+2021-06-23 12:00:38,446 :INFO : test_Google_call : Google link has been opened
+2021-06-23 12:00:38,446 :INFO : test_Google_call : Closing google link
+2021-06-23 12:00:38,568 :INFO : test_Google_call :Step 10 : Clicking on call link
+2021-06-23 12:00:46,093 :INFO : test_objectives :Step 1 :Launching Avammo website
+2021-06-23 12:00:48,110 :INFO : test_objectives :Step 2 :Verification of  Welcome message
+2021-06-23 12:00:48,166 :INFO : test_objectives :Step 3 :Click on Welcome message
+2021-06-23 12:00:51,299 :INFO : test_objectives :Step 4 :Verification of Agentname
+2021-06-23 12:00:51,325 :INFO : test_objectives :Agent name is present as expected
+2021-06-23 12:00:51,326 :INFO : test_objectives :Step 5 :Verification of Get started button
+2021-06-23 12:00:53,278 :INFO : test_objectives :Step 6 :Moving inside the bot
+2021-06-23 12:00:55,376 :INFO : test_objectives :Step 7 :Clicking on start over button
+2021-06-23 12:01:39,892 :INFO : test_objectives :Step 8 :Clicking on Renew Motor Policy
+2021-06-23 12:01:46,118 :INFO : test_objectives :Step 9 : Verify agent respone
+2021-06-23 12:01:48,318 :INFO : test_objectives :Can you help me with your 8-digit policy number?
+2021-06-23 12:01:51,781 :INFO : test_objectives :Sending 123 as input
+2021-06-23 12:16:59,198 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 12:17:01,208 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 12:17:01,241 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 12:17:04,380 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 12:17:04,424 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 12:17:04,425 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 12:17:06,014 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 12:17:08,315 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 12:17:11,487 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 12:17:11,547 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 12:17:17,560 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 12:17:19,572 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 12:17:19,638 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 12:17:22,778 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 12:17:22,823 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 12:17:22,823 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 12:17:24,400 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 12:17:26,508 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 12:17:28,621 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 12:17:30,967 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 12:17:34,353 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 12:17:40,063 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 12:17:42,077 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 12:17:42,139 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 12:17:45,293 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 12:17:45,344 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 12:17:45,344 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 12:17:47,105 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 12:17:49,381 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 12:17:52,499 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 12:17:52,554 :INFO : test_Form_submit :Form is present
+2021-06-23 12:17:52,554 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 12:17:52,554 :INFO : test_Form_submit :Entering Full name
+2021-06-23 12:17:52,695 :INFO : test_Form_submit :Entering Address
+2021-06-23 12:17:52,772 :INFO : test_Form_submit :Radio button selection
+2021-06-23 12:17:54,057 :INFO : test_Form_submit :Star Rating
+2021-06-23 12:17:56,343 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 12:18:06,381 :INFO : test_Google_call :Step 1 :Launching Avammo website
+2021-06-23 12:18:08,393 :INFO : test_Google_call :Step 2 :Verification of  Welcome message
+2021-06-23 12:18:08,422 :INFO : test_Google_call :Step 3 :Click on Welcome message
+2021-06-23 12:18:11,522 :INFO : test_Google_call :Step 4 :Verification of Agentname
+2021-06-23 12:18:11,571 :INFO : test_Google_call :Agent name is present as expected
+2021-06-23 12:18:11,572 :INFO : test_Google_call :Step 5 :Verification of Get started button
+2021-06-23 12:18:13,205 :INFO : test_Google_call :Step 6 :Moving inside the bot
+2021-06-23 12:18:15,504 :INFO : test_Google_call :Step 7 :Sending New Test as input
+2021-06-23 12:18:18,673 :INFO : test_Google_call :Verify Google and call options tab presence
+2021-06-23 12:18:18,734 :INFO : test_Google_call :Step 8 :Verify Google and call options  present
+2021-06-23 12:18:18,734 :INFO : test_Google_call :Step 9 : Clicking on google link
+2021-06-23 12:18:20,956 :INFO : test_Google_call : Google link has been opened
+2021-06-23 12:18:20,956 :INFO : test_Google_call : Closing google link
+2021-06-23 12:18:21,086 :INFO : test_Google_call :Step 10 : Clicking on call link
+2021-06-23 12:18:28,711 :INFO : test_objectives :Step 1 :Launching Avammo website
+2021-06-23 12:18:30,724 :INFO : test_objectives :Step 2 :Verification of  Welcome message
+2021-06-23 12:18:30,784 :INFO : test_objectives :Step 3 :Click on Welcome message
+2021-06-23 12:18:33,947 :INFO : test_objectives :Step 4 :Verification of Agentname
+2021-06-23 12:18:33,997 :INFO : test_objectives :Agent name is present as expected
+2021-06-23 12:18:33,997 :INFO : test_objectives :Step 5 :Verification of Get started button
+2021-06-23 12:18:36,048 :INFO : test_objectives :Step 6 :Moving inside the bot
+2021-06-23 12:18:38,165 :INFO : test_objectives :Step 7 :Clicking on start over button
+2021-06-23 12:18:40,334 :INFO : test_objectives :Step 8 :Clicking on Renew Motor Policy
+2021-06-23 12:18:41,483 :INFO : test_objectives :Step 9 : Verify agent respone
+2021-06-23 12:20:37,752 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 12:20:39,762 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 12:20:39,827 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 12:20:42,984 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 12:20:43,035 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 12:20:43,035 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 12:20:44,677 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 12:20:46,839 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 12:20:49,942 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 12:20:50,004 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 12:20:55,242 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 12:20:57,249 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 12:20:57,278 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 12:21:00,391 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 12:21:00,435 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 12:21:00,435 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 12:21:02,718 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 12:21:04,911 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 12:21:07,078 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 12:21:09,436 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 12:21:12,864 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 12:21:18,795 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 12:21:20,806 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 12:21:20,862 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 12:21:23,972 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 12:21:24,021 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 12:21:24,022 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 12:21:25,776 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 12:21:28,042 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 12:21:31,162 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 12:21:31,215 :INFO : test_Form_submit :Form is present
+2021-06-23 12:21:31,215 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 12:21:31,215 :INFO : test_Form_submit :Entering Full name
+2021-06-23 12:21:31,333 :INFO : test_Form_submit :Entering Address
+2021-06-23 12:21:31,396 :INFO : test_Form_submit :Radio button selection
+2021-06-23 12:21:32,704 :INFO : test_Form_submit :Star Rating
+2021-06-23 12:21:34,963 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 12:21:44,594 :INFO : test_Google_call :Step 1 :Launching Avammo website
+2021-06-23 12:21:46,605 :INFO : test_Google_call :Step 2 :Verification of  Welcome message
+2021-06-23 12:21:46,668 :INFO : test_Google_call :Step 3 :Click on Welcome message
+2021-06-23 12:21:49,832 :INFO : test_Google_call :Step 4 :Verification of Agentname
+2021-06-23 12:21:49,871 :INFO : test_Google_call :Agent name is present as expected
+2021-06-23 12:21:49,871 :INFO : test_Google_call :Step 5 :Verification of Get started button
+2021-06-23 12:21:51,681 :INFO : test_Google_call :Step 6 :Moving inside the bot
+2021-06-23 12:21:53,943 :INFO : test_Google_call :Step 7 :Sending New Test as input
+2021-06-23 12:21:57,086 :INFO : test_Google_call :Verify Google and call options tab presence
+2021-06-23 12:21:57,130 :INFO : test_Google_call :Step 8 :Verify Google and call options  present
+2021-06-23 12:21:57,130 :INFO : test_Google_call :Step 9 : Clicking on google link
+2021-06-23 12:21:59,348 :INFO : test_Google_call : Google link has been opened
+2021-06-23 12:21:59,348 :INFO : test_Google_call : Closing google link
+2021-06-23 12:21:59,485 :INFO : test_Google_call :Step 10 : Clicking on call link
+2021-06-23 12:22:07,039 :INFO : test_objectives :Step 1 :Launching Avammo website
+2021-06-23 12:22:09,054 :INFO : test_objectives :Step 2 :Verification of  Welcome message
+2021-06-23 12:22:09,098 :INFO : test_objectives :Step 3 :Click on Welcome message
+2021-06-23 12:22:12,197 :INFO : test_objectives :Step 4 :Verification of Agentname
+2021-06-23 12:22:12,242 :INFO : test_objectives :Agent name is present as expected
+2021-06-23 12:22:12,244 :INFO : test_objectives :Step 5 :Verification of Get started button
+2021-06-23 12:22:13,923 :INFO : test_objectives :Step 6 :Moving inside the bot
+2021-06-23 12:22:16,019 :INFO : test_objectives :Step 7 :Clicking on start over button
+2021-06-23 12:22:18,154 :INFO : test_objectives :Step 8 :Clicking on Renew Motor Policy
+2021-06-23 12:22:30,115 :INFO : test_objectives :Step 9 : Verify agent respone
+2021-06-23 12:22:33,294 :INFO : test_objectives :Can you help me with your 8-digit policy number?
+2021-06-23 12:22:39,685 :INFO : test_objectives :Sending 123 as input
+2021-06-23 12:23:17,416 :INFO : test_objectives :Entering valid policy
+2021-06-23 12:23:20,017 :INFO : test_objectives :Sending 12345678 as input
+2021-06-23 12:23:40,232 :INFO : test_objectives :Step 10 :Enter valid Registration number
+2021-06-23 12:45:52,170 :INFO : test_objectives :Step 1 :Launching Avammo website
+2021-06-23 12:45:54,184 :INFO : test_objectives :Step 2 :Verification of  Welcome message
+2021-06-23 12:45:54,250 :INFO : test_objectives :Step 3 :Click on Welcome message
+2021-06-23 12:45:57,432 :INFO : test_objectives :Step 4 :Verification of Agentname
+2021-06-23 12:45:57,477 :INFO : test_objectives :Agent name is present as expected
+2021-06-23 12:45:57,477 :INFO : test_objectives :Step 5 :Verification of Get started button
+2021-06-23 12:45:59,690 :INFO : test_objectives :Step 6 :Moving inside the bot
+2021-06-23 12:46:01,792 :INFO : test_objectives :Step 7 :Clicking on start over button
+2021-06-23 12:46:03,964 :INFO : test_objectives :Step 8 :Clicking on Renew Motor Policy
+2021-06-23 12:46:05,052 :INFO : test_objectives :Step 9 : Verify agent respone
+2021-06-23 12:46:36,780 :INFO : test_objectives :Step 1 :Launching Avammo website
+2021-06-23 12:46:38,795 :INFO : test_objectives :Step 2 :Verification of  Welcome message
+2021-06-23 12:46:38,844 :INFO : test_objectives :Step 3 :Click on Welcome message
+2021-06-23 12:46:41,990 :INFO : test_objectives :Step 4 :Verification of Agentname
+2021-06-23 12:46:42,035 :INFO : test_objectives :Agent name is present as expected
+2021-06-23 12:46:42,035 :INFO : test_objectives :Step 5 :Verification of Get started button
+2021-06-23 12:46:43,625 :INFO : test_objectives :Step 6 :Moving inside the bot
+2021-06-23 12:46:45,741 :INFO : test_objectives :Step 7 :Clicking on start over button
+2021-06-23 12:46:47,918 :INFO : test_objectives :Step 8 :Clicking on Renew Motor Policy
+2021-06-23 12:46:49,078 :INFO : test_objectives :Step 9 : Verify agent respone
+2021-06-23 12:47:27,786 :INFO : test_objectives :Step 1 :Launching Avammo website
+2021-06-23 12:47:29,796 :INFO : test_objectives :Step 2 :Verification of  Welcome message
+2021-06-23 12:47:29,856 :INFO : test_objectives :Step 3 :Click on Welcome message
+2021-06-23 12:47:33,006 :INFO : test_objectives :Step 4 :Verification of Agentname
+2021-06-23 12:47:33,050 :INFO : test_objectives :Agent name is present as expected
+2021-06-23 12:47:33,050 :INFO : test_objectives :Step 5 :Verification of Get started button
+2021-06-23 12:47:35,076 :INFO : test_objectives :Step 6 :Moving inside the bot
+2021-06-23 12:47:37,184 :INFO : test_objectives :Step 7 :Clicking on start over button
+2021-06-23 12:47:39,346 :INFO : test_objectives :Step 8 :Clicking on Renew Motor Policy
+2021-06-23 12:47:43,486 :INFO : test_objectives :Step 9 : Verify agent respone
+2021-06-23 12:47:43,564 :INFO : test_objectives :Can you help me with your 8-digit policy number?
+2021-06-23 12:47:43,565 :INFO : test_objectives :Sending 123 as input
+2021-06-23 12:47:46,755 :INFO : test_objectives :Entering valid policy
+2021-06-23 12:47:46,755 :INFO : test_objectives :Sending 12345678 as input
+2021-06-23 12:47:49,947 :INFO : test_objectives :Step 10 :Enter valid Registration number
+2021-06-23 12:47:51,066 :INFO : test_objectives :Step 11 :Enter valid phone number
+2021-06-23 12:47:52,315 :INFO : test_objectives :Step 11 :Enter valid Email
+2021-06-23 12:48:54,794 :INFO : test_objectives :Step 1 :Launching Avammo website
+2021-06-23 12:48:56,805 :INFO : test_objectives :Step 2 :Verification of  Welcome message
+2021-06-23 12:48:56,865 :INFO : test_objectives :Step 3 :Click on Welcome message
+2021-06-23 12:49:00,035 :INFO : test_objectives :Step 4 :Verification of Agentname
+2021-06-23 12:49:00,076 :INFO : test_objectives :Agent name is present as expected
+2021-06-23 12:49:00,076 :INFO : test_objectives :Step 5 :Verification of Get started button
+2021-06-23 12:49:01,610 :INFO : test_objectives :Step 6 :Moving inside the bot
+2021-06-23 12:49:03,702 :INFO : test_objectives :Step 7 :Clicking on start over button
+2021-06-23 12:49:05,794 :INFO : test_objectives :Step 8 :Clicking on Renew Motor Policy
+2021-06-23 12:49:09,945 :INFO : test_objectives :Step 9 : Verify agent respone
+2021-06-23 12:49:10,008 :INFO : test_objectives :Can you help me with your 8-digit policy number?
+2021-06-23 12:49:10,008 :INFO : test_objectives :Sending 123 as input
+2021-06-23 12:49:13,203 :INFO : test_objectives :Entering valid policy
+2021-06-23 12:49:13,203 :INFO : test_objectives :Sending 12345678 as input
+2021-06-23 12:49:16,377 :INFO : test_objectives :Step 10 :Enter valid Registration number
+2021-06-23 12:49:18,542 :INFO : test_objectives :Step 11 :Enter valid phone number
+2021-06-23 12:49:20,731 :INFO : test_objectives :Step 11 :Enter valid Email
+2021-06-23 12:49:23,947 :INFO : test_objectives :Step 12 :Clicking yes button
+2021-06-23 12:50:07,529 :INFO : test_objectives :Step 1 :Launching Avammo website
+2021-06-23 12:50:09,540 :INFO : test_objectives :Step 2 :Verification of  Welcome message
+2021-06-23 12:50:09,586 :INFO : test_objectives :Step 3 :Click on Welcome message
+2021-06-23 12:50:12,753 :INFO : test_objectives :Step 4 :Verification of Agentname
+2021-06-23 12:50:12,796 :INFO : test_objectives :Agent name is present as expected
+2021-06-23 12:50:12,796 :INFO : test_objectives :Step 5 :Verification of Get started button
+2021-06-23 12:50:14,626 :INFO : test_objectives :Step 6 :Moving inside the bot
+2021-06-23 12:50:16,720 :INFO : test_objectives :Step 7 :Clicking on start over button
+2021-06-23 12:50:18,880 :INFO : test_objectives :Step 8 :Clicking on Renew Motor Policy
+2021-06-23 12:50:23,019 :INFO : test_objectives :Step 9 : Verify agent respone
+2021-06-23 12:50:23,088 :INFO : test_objectives :Can you help me with your 8-digit policy number?
+2021-06-23 12:50:23,089 :INFO : test_objectives :Sending 123 as input
+2021-06-23 12:50:26,290 :INFO : test_objectives :Entering valid policy
+2021-06-23 12:50:26,290 :INFO : test_objectives :Sending 12345678 as input
+2021-06-23 12:50:29,511 :INFO : test_objectives :Step 10 :Enter valid Registration number
+2021-06-23 12:50:31,686 :INFO : test_objectives :Step 11 :Enter valid phone number
+2021-06-23 12:50:33,878 :INFO : test_objectives :Step 11 :Enter valid Email
+2021-06-23 12:50:37,077 :INFO : test_objectives :Step 12 :Clicking yes button
+2021-06-23 12:51:36,673 :INFO : test_objectives :Step 1 :Launching Avammo website
+2021-06-23 12:51:36,966 :INFO : test_Google_call :Step 1 :Launching Avammo website
+2021-06-23 12:51:37,264 :INFO : test_Form_submit :Step 1 :Launching Avammo website
+2021-06-23 12:51:37,305 :INFO : test_welcomescreen :Step 1 :Launching Avammo website
+2021-06-23 12:51:37,538 :INFO : test_Menu_options :Step 1 :Launching Avammo website
+2021-06-23 12:51:38,712 :INFO : test_objectives :Step 2 :Verification of  Welcome message
+2021-06-23 12:51:38,740 :INFO : test_objectives :Step 3 :Click on Welcome message
+2021-06-23 12:51:38,989 :INFO : test_Google_call :Step 2 :Verification of  Welcome message
+2021-06-23 12:51:39,088 :INFO : test_Google_call :Step 3 :Click on Welcome message
+2021-06-23 12:51:39,292 :INFO : test_Form_submit :Step 2 :Verification of  Welcome message
+2021-06-23 12:51:39,323 :INFO : test_welcomescreen :Step 2 :Verification of  Welcome message
+2021-06-23 12:51:39,327 :INFO : test_Form_submit :Step 3 :Click on Welcome message
+2021-06-23 12:51:39,375 :INFO : test_welcomescreen :Step 3 :Click on Welcome message
+2021-06-23 12:51:39,555 :INFO : test_Menu_options :Step 2 :Verification of  Welcome message
+2021-06-23 12:51:39,608 :INFO : test_Menu_options :Step 3 :Click on Welcome message
+2021-06-23 12:51:41,835 :INFO : test_objectives :Step 4 :Verification of Agentname
+2021-06-23 12:51:41,863 :INFO : test_objectives :Agent name is present as expected
+2021-06-23 12:51:41,863 :INFO : test_objectives :Step 5 :Verification of Get started button
+2021-06-23 12:51:42,267 :INFO : test_Google_call :Step 4 :Verification of Agentname
+2021-06-23 12:51:42,299 :INFO : test_Google_call :Agent name is present as expected
+2021-06-23 12:51:42,300 :INFO : test_Google_call :Step 5 :Verification of Get started button
+2021-06-23 12:51:42,506 :INFO : test_Form_submit :Step 4 :Verification of Agentname
+2021-06-23 12:51:42,561 :INFO : test_Form_submit :Agent name is present as expected
+2021-06-23 12:51:42,562 :INFO : test_Form_submit :Step 5 :Verification of Get started button
+2021-06-23 12:51:42,582 :INFO : test_welcomescreen :Step 4 :Verification of Agentname
+2021-06-23 12:51:42,625 :INFO : test_welcomescreen :Agent name is present as expected
+2021-06-23 12:51:42,625 :INFO : test_welcomescreen :Step 5 :Verification of Get started button
+2021-06-23 12:51:42,900 :INFO : test_Menu_options :Step 4 :Verification of Agentname
+2021-06-23 12:51:42,943 :INFO : test_Menu_options :Agent name is present as expected
+2021-06-23 12:51:42,943 :INFO : test_Menu_options :Step 5 :Verification of Get started button
+2021-06-23 12:51:43,442 :INFO : test_objectives :Step 6 :Moving inside the bot
+2021-06-23 12:51:43,890 :INFO : test_Google_call :Step 6 :Moving inside the bot
+2021-06-23 12:51:44,464 :INFO : test_welcomescreen :Step 6 :Moving inside the bot
+2021-06-23 12:51:44,588 :INFO : test_Form_submit :Step 6 :Moving inside the bot
+2021-06-23 12:51:44,677 :INFO : test_Menu_options :Step 6 :Moving inside the bot
+2021-06-23 12:51:45,649 :INFO : test_objectives :Step 7 :Clicking on start over button
+2021-06-23 12:51:46,175 :INFO : test_Google_call :Step 7 :Sending New Test as input
+2021-06-23 12:51:46,769 :INFO : test_welcomescreen :Step 7 :Sending input
+2021-06-23 12:51:46,813 :INFO : test_Menu_options :Step 7 :Clicking on start over button
+2021-06-23 12:51:46,897 :INFO : test_Form_submit :Step 7 :Sending Test Bot as input
+2021-06-23 12:51:47,790 :INFO : test_objectives :Step 8 :Clicking on Renew Motor Policy
+2021-06-23 12:51:48,935 :INFO : test_Menu_options :Step 8 :Clicking on Download Motor Policy
+2021-06-23 12:51:49,334 :INFO : test_Google_call :Verify Google and call options tab presence
+2021-06-23 12:51:49,380 :INFO : test_Google_call :Step 8 :Verify Google and call options  present
+2021-06-23 12:51:49,380 :INFO : test_Google_call :Step 9 : Clicking on google link
+2021-06-23 12:51:49,941 :INFO : test_welcomescreen :Step 8 : Verifying agent Reply
+2021-06-23 12:51:49,996 :INFO : test_welcomescreen :Agent Reply is : Hi there, what can I help you with today?
+2021-06-23 12:51:50,081 :INFO : test_Form_submit :Step 8 :Checking for form
+2021-06-23 12:51:50,156 :INFO : test_Form_submit :Form is present
+2021-06-23 12:51:50,156 :INFO : test_Form_submit :Step 9 : Filling the data inside the form
+2021-06-23 12:51:50,157 :INFO : test_Form_submit :Entering Full name
+2021-06-23 12:51:50,383 :INFO : test_Form_submit :Entering Address
+2021-06-23 12:51:50,493 :INFO : test_Form_submit :Radio button selection
+2021-06-23 12:51:51,265 :INFO : test_Menu_options :Step 9 :Verifying downloaded link
+2021-06-23 12:51:51,628 :INFO : test_Google_call : Google link has been opened
+2021-06-23 12:51:51,629 :INFO : test_Google_call : Closing google link
+2021-06-23 12:51:51,730 :INFO : test_Google_call :Step 10 : Clicking on call link
+2021-06-23 12:51:51,906 :INFO : test_Form_submit :Star Rating
+2021-06-23 12:51:51,982 :INFO : test_objectives :Step 9 : Verify agent respone
+2021-06-23 12:51:52,050 :INFO : test_objectives :Can you help me with your 8-digit policy number?
+2021-06-23 12:51:52,051 :INFO : test_objectives :Sending 123 as input
+2021-06-23 12:51:54,209 :INFO : test_Form_submit :Step  10: Verifying success message
+2021-06-23 12:51:54,480 :INFO : test_Menu_options :Motor, Health, Travel and Home Insurance Online
+2021-06-23 12:51:55,320 :INFO : test_objectives :Entering valid policy
+2021-06-23 12:51:55,321 :INFO : test_objectives :Sending 12345678 as input
+2021-06-23 12:51:58,493 :INFO : test_objectives :Step 10 :Enter valid Registration number
+2021-06-23 12:52:00,602 :INFO : test_objectives :Step 11 :Enter valid phone number
+2021-06-23 12:52:02,789 :INFO : test_objectives :Step 11 :Enter valid Email
+2021-06-23 12:52:05,986 :INFO : test_objectives :Step 12 :Clicking yes button

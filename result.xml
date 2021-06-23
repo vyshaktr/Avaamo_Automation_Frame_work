@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="4" time="93.899" timestamp="2021-06-23T11:17:04.212475" hostname="VYTR-7400"><testcase classname="test_cases.TestCases" name="test_welcomescreen" time="19.921" /><testcase classname="test_cases.TestCases" name="test_Menu_options" time="23.789" /><testcase classname="test_cases.TestCases" name="test_Form_submit" time="22.430"><failure message="AssertionError: assert 'Submitted successfully1' == 'Submitted successfully'&#10;  - Submitted successfully&#10;  + Submitted successfully1&#10;  ?                       +">self = &lt;tests.test_cases.TestCases object at 0x000001928AF5F970&gt;
+
+    @pytest.mark.smoke
+    # Test case to validate wrong password (Test case ID : 4 )
+    # Authored by vyshak on 23/06/2021
+    def test_Form_submit(self):
+        Gform=google_form(self.driver)
+        log = self.getLogger()
+        log.info("Step 1 :Launching Avammo website")
+        land = landing(self.driver)
+        # self.wait(self,"//*[contains(@class,'avm-welcome')]")
+        time.sleep(2)
+        log.info("Step 2 :Verification of  Welcome message")
+        assert "Hello and welcome to IRA agent" == land.Welcome().text
+        log.info("Step 3 :Click on Welcome message")
+        land.Welcome().click()
+        self.waitfor(3)
+    
+        if (land.botstart().is_displayed()):
+            log.info("Step 4 :Verification of Agentname")
+            assert "IRA iffco tokio" == land.Agentname().text
+            log.info("Agent name is present as expected")
+        else:
+            assert True == False
+        log.info("Step 5 :Verification of Get started button")
+    
+        if land.Get_started().is_displayed():
+            land.Get_started().click()
+        else:
+            assert True == False
+        log.info("Step 6 :Moving inside the bot")
+        self.swtich_frame("avaamoIframe")
+        self.waitfor(2)
+        if not land.TextArea().is_displayed():
+            land.DownwardIcon().click()
+        else:
+            log.info("Text area already exists")
+        log.info("Step 7 :Sending "+Testdata.User_input2+" as input")
+        land.TextArea().send_keys(Testdata.User_input2)
+        land.Sendbtn().click()
+        self.waitfor(3)
+        log.info("Step 8 :Checking for form")
+        if Gform.Form().is_displayed():
+            log.info("Form is present")
+        else:
+            log.info("Form is not present Failed")
+            assert True== False
+        log.info("Step 9 : Filling the data inside the form")
+        log.info("Entering Full name")
+        Gform.Fullname().send_keys(Testdata.Full_name)
+        log.info("Entering Address")
+        Gform.Address().send_keys(Testdata.Address)
+        log.info("Radio button selection")
+        Gform.radiobtn().click()
+        Gform.Dropdown().click()
+        self.waitfor(1)
+        Gform.option1().click()
+        log.info("Star Rating")
+        Gform.starrate().click()
+        self.waitfor(1)
+        Gform.submitbuton().click()
+        self.waitfor(1)
+        log.info("Step  10: Verifying success message")
+&gt;       assert "Submitted successfully1"==Gform.Successmsg().text
+E       AssertionError: assert 'Submitted successfully1' == 'Submitted successfully'
+E         - Submitted successfully
+E         + Submitted successfully1
+E         ?                       +
+
+test_cases.py:172: AssertionError</failure></testcase><testcase classname="test_cases.TestCases" name="test_Google_call" time="23.407" /></testsuite></testsuites>
